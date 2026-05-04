@@ -12,8 +12,8 @@ Follow these steps to clone the repository and build the optimized binaries.
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/ggml-org/llama.cpp
-   cd llama.cpp
+   git clone https://github.com/TheTom/llama-cpp-turboquant.git
+   cd llama-cpp-turboquant
    ```
 
 2. **Build with ROCm/HIP Support:**
